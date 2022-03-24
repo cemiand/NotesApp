@@ -1,5 +1,6 @@
 {
   "name": "using-pre-built-react-components",
+  "homepage": "https://cemiand.github.io/NotesApp",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -30,6 +31,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "homepage": "https://cemiand.github.io/NotesApp"
+  ]
 }
